@@ -4,5 +4,10 @@
 <dict>
 	<key>Using</key>
 	<true/>
+<key>keyarray1</key>
+<array>
+    <string>keyitem1</string>
+    <string>keyitem2</string>
+</array>
 </dict>
 </plist>
