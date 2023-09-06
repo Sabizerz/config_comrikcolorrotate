@@ -6,8 +6,8 @@
 	<true/>
 <key>loca</key>
 <array>
-    <string>GTM+7</string>
-    <string>GTM+7</string>
+    <string>GMT+7</string>
+    <string>GMT+8</string>
 </array>
 </dict>
 </plist>
