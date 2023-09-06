@@ -4,10 +4,10 @@
 <dict>
 	<key>Using</key>
 	<true/>
-<key>keyarray1</key>
+<key>loca</key>
 <array>
-    <string>keyitem1</string>
-    <string>keyitem2</string>
+    <string>GTM+7</string>
+    <string>GTM+7</string>
 </array>
 </dict>
 </plist>
