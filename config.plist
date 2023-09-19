@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Using</key>
-	<false/>
+	<true/>
 <key>loca</key>
 <array>
     <string>GMT+7</string>
